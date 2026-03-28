@@ -49,8 +49,10 @@ fi
 echo "Done"
 #
 echo "------------------------------------------------------------------------"
+echo "        This work is exclusive to Islam Salama (( Skin Fury-FHD ))      "
+echo "------------------------------------------------------------------------"
 echo "                              Abou Yassin                               "
-echo "                   FuryCaster Installed Successfully                      "
+echo "                   FuryCaster Installed Successfully                    "
 echo "------------------------------------------------------------------------"
 echo "   "
 exit 0
